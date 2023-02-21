@@ -18,8 +18,7 @@ var config_data = `
       "gsCol": "event",
       "type": "event",
       "defaultValue": "2023Jackson",
-      "required": "true",
-      "disabled": "true"
+      "required": "true"
     },
     { "name": "Match Level",
       "code": "l",
